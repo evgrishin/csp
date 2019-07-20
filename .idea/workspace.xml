@@ -2,7 +2,385 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c68f919a-e4e6-4f82-9833-9bae9e013bb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/css/12_col.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/css/16_col.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/css/960.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/css/layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/css/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/css/text.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/css/text.orig.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/bg-pattern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/box_header_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/bullet_grey.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/downloadbar_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/downloadbar_separator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/footer_fold_bottom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/footer_fold_top.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/footer_separator.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/footer_textbox.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/header_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/headers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/icon_core.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/icon_designer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/icon_developer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/icon_empty_screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/icon_features_list.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/icon_ok.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/icon_open_source.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/icon_rss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/icon_screencasts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/icon_server.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/icon_warning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/im_inst_upgrade.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/im_new_inst.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/im_resources.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/img_info.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/img_inquisitor/as_pointer.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/img_inquisitor/hl_corner_bl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/img_inquisitor/hl_corner_br.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/img_inquisitor/hl_corner_tl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/img_inquisitor/hl_corner_tr.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/img_inquisitor/ul_corner_bl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/img_inquisitor/ul_corner_br.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/img_inquisitor/ul_corner_tl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/img_inquisitor/ul_corner_tr.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/link_button.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/link_button_footer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/mainnav_buttons.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/meta_down.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/meta_separator.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/modx-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/modx-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/modx_footer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/modx_logo_header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/modx_mgr_screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/quote_bubble.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/rssbox_bottom.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/rssbox_separator.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/screencast_placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/search_background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/search_go_hover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/sidebox_bottom.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/sidebox_top.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/subnav_buttons.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/whatwhyhow_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/images/whatwhyhow_background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/js/ext-core-debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/js/ext-core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/js/inc/blank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/js/inc/clear.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/js/inc/csshover2.htc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/js/inc/iepngfix.htc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/js/inc/say.no.to.ie.6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/js/modx.setup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/js/sections/contexts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/js/sections/database.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/js/sections/install.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/js/sections/summary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/js/sections/welcome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/modx.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/assets/modx_scripts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/cli-install.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/config.dist.new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/config.dist.upgrade-advanced.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/config.dist.upgrade.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/controllers/complete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/controllers/contexts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/controllers/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/controllers/install.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/controllers/language.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/controllers/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/controllers/options.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/controllers/summary.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/controllers/welcome.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/config.core.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/config/modconfigreader.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/config/modevolutionconfigreader.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/config/modrevolutionconfigreader.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/drivers/modinstalldriver.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/drivers/modinstalldriver_mysql.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/drivers/modinstalldriver_sqlsrv.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/error/modinstallerror.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/error/modinstalljsonerror.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/modinstall.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/modinstalllexicon.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/modinstallsettings.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/modinstallversion.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/new.install.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/parser/modinstallparser.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/parser/modinstallsmarty.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/request/modinstallclirequest.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/request/modinstallconnectorrequest.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/request/modinstallrequest.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/runner/modinstallrunner.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/runner/modinstallrunnerweb.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/tables_create.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/test/modinstalltest.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/test/modinstalltestadvanced.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/test/modinstalltestgit.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/test/modinstalltestsdk.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/test/modinstalltesttraditional.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrade.install.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.2-disable-allowtagsinpost.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.2-media-sources.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.2-tv-renders.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.3-extension-packages.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.3-fc-action.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.3.1-base_help_url.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.3.1-feed_modx_security.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.3.1-oninitculture.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.4-categories-rank.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.4-manager-index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.4-namespace-access.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.4-package-provider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.4-principal-index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.4-tmplvar-index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.4-user-country-iso.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.4.1-namespace-access.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.5-cleanup-script.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.5-user-createdon.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.5.5-ssl-provider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.7-alias-visible.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.7-browser-tree-hide-files.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.7-description-text.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.7-native-password-hash.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.7-remove-cache-disabled.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/common/2.7.1-cleanup-script.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.0.0-alpha-1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.0.0-alpha-2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.0.0-alpha-3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.0.0-alpha-4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.0.0-alpha-5.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.0.0-alpha-6.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.0.0-beta-1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.0.0-beta-2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.0.0-beta-3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.0.0-beta-4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.0.0-beta-5.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.0.0-rc-1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.0.0-rc-2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.0.0-rc-3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.0.1-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.0.4-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.0.5-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.0.6-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.1.0-rc-1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.1.0-rc-2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.1.1-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.1.2-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.2.0-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.2.0-pl2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.2.0-rc1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.2.0-rc2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.2.1-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.2.10-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.2.2-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.2.5-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.2.6-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.2.7-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.2.9-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.3.0-rc1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.3.1-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.4.0-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.4.1-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.5.0-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.5.5-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.7.0-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/mysql/2.7.1-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.1.0-rc-1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.1.0-rc-2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.1.1-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.1.2-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.2.0-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.2.0-pl2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.2.0-rc1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.2.0-rc2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.2.1-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.2.10-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.2.2-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.2.6-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.2.7-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.2.9-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.3.0-rc1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.3.1-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.4.0-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.4.1-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.5.0-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.5.5-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.7.0-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/includes/upgrades/sqlsrv/2.7.1-pl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/ar/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/ar/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/ar/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/ar/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/ar/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/be/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/be/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/be/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/be/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/be/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/bg/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/bg/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/bg/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/bg/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/bg/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/cs/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/cs/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/cs/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/cs/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/cs/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/da/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/da/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/da/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/da/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/da/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/de/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/de/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/de/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/de/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/de/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/el/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/el/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/el/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/el/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/el/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/en/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/en/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/en/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/en/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/en/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/es/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/es/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/es/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/es/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/es/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/et/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/et/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/et/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/et/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/et/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/fa/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/fa/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/fa/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/fa/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/fa/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/fi/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/fi/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/fi/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/fi/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/fi/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/fr/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/fr/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/fr/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/fr/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/fr/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/he/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/he/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/he/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/he/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/he/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/hi/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/hi/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/hi/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/hi/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/hi/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/hu/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/hu/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/hu/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/hu/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/hu/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/id/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/id/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/id/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/id/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/id/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/it/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/it/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/it/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/it/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/it/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/ja/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/ja/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/ja/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/ja/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/ja/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/nl/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/nl/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/nl/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/nl/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/nl/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/pl/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/pl/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/pl/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/pl/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/pl/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/pt-br/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/pt-br/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/pt-br/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/pt-br/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/pt-br/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/ro/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/ro/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/ro/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/ro/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/ro/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/ru/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/ru/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/ru/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/ru/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/ru/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/sv/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/sv/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/sv/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/sv/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/sv/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/th/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/th/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/th/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/th/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/th/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/tr/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/tr/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/tr/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/tr/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/tr/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/uk/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/uk/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/uk/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/uk/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/uk/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/yo/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/yo/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/yo/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/yo/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/yo/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/zh/default.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/zh/drivers.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/zh/preload.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/zh/test.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/lang/zh/upgrades.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/processors/connector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/processors/database/collation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/processors/database/connection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/provisioner/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/templates/base_resource.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/templates/base_template.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/templates/complete.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/templates/contexts.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/templates/database.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/templates/findcore.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/templates/footer.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/templates/header.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/templates/index.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/templates/install.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/templates/language.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/templates/license.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/templates/options.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/templates/summary.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/templates/welcome.tpl" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +413,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -47,6 +424,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -79,23 +457,19 @@
       <option name="presentableId" value="Default" />
       <updated>1563606945500</updated>
       <workItem from="1563606946592" duration="244000" />
+      <workItem from="1563621978881" duration="631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="244000" />
+    <option name="totallyTimeSpent" value="840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20682302" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21108742" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -103,10 +477,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
