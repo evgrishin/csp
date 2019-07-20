@@ -424,11 +424,6 @@
   'policyCache' => 
   array (
   ),
-  'elementCache' => 
-  array (
-    '[[*pagetitle]]' => 'Главная',
-    '[[*longtitle:default=`Главная`]]' => 'Поздравляем!',
-  ),
   'sourceCache' => 
   array (
     'modChunk' => 
