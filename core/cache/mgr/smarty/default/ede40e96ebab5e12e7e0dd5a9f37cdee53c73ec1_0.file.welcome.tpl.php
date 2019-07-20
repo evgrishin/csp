@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-07-20 14:31:34
+/* Smarty version 3.1.33, created on 2019-07-20 19:16:32
   from 'C:\domains\cspanel.ru\manager\templates\default\welcome.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5d32fb961d1363_87243036',
+  'unifunc' => 'content_5d333e604d1c74_15047791',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5d32fb961d1363_87243036 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5d333e604d1c74_15047791 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div id="modx-panel-welcome-div"></div>
 
 <div id="modx-dashboard" class="dashboard">

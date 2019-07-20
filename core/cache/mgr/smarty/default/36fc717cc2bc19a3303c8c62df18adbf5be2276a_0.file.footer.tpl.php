@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-07-20 14:31:34
+/* Smarty version 3.1.33, created on 2019-07-20 19:16:32
   from 'C:\domains\cspanel.ru\manager\templates\default\footer.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5d32fb962362b8_70313871',
+  'unifunc' => 'content_5d333e60533db7_78843305',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5d32fb962362b8_70313871 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5d333e60533db7_78843305 (Smarty_Internal_Template $_smarty_tpl) {
 ?>    </div>
     <!-- #modx-content-->
     <div id="modx-footer"></div>
